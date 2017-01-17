@@ -1,0 +1,3 @@
+
+print "fist git repository
+"
