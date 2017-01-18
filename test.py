@@ -1,3 +1,2 @@
 
-print "fist git repository
-"
+print ("fist git repository")
